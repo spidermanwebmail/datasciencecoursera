@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-JHU, Courseera, Data Science Course 
+JHU, Coursera, Data Science Course 
